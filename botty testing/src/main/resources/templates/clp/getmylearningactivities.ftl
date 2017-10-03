@@ -1,0 +1,1 @@
+?UserId=${request.userid}&BoardID=${request.boardid}&pagesize=${request.pagesize}&pagenumber=${request.pagenumber}

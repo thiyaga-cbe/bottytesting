@@ -1,0 +1,1 @@
+?BoardID=${request.boardid}&UserId=${request.userid}&type=curator&pagesize=${request.curator}&pagenumber=${request.pagenumber}

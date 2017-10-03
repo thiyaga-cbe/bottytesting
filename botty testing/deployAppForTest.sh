@@ -1,0 +1,1 @@
+sudo docker run -e 'SPRING_PROFILES_ACTIVE=dev' -e 'SPRING_DATASOURCE_URL=jdbc:mysql://10.0.12.196:3308/ms_inventory_db' -e 'SPRING_DATASOURCE_USERNAME=root' -e 'SPRING_DATASOURCE_PASSWORD=root' -e 'SERVER_PORT=9022' -p 9022:9022 --name inventory-app --link inventory_db:mysql -d hub.magellancloud.com/pes/test_inventory

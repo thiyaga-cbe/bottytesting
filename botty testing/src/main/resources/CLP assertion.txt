@@ -1,0 +1,27 @@
+{
+    "actionCount": 0,
+    "id": 0,
+    "apistatus": {
+        "sessionId": null,
+        "sessionExpireDate": null,
+        "ResponseCode": "17",
+        "ResponseDescription": "Cannot create or Edit Learning. User is not curator or delegator for the board.",
+        "fieldCollection": null
+    }
+}
+
+
+
+
+{
+    "actionCount": 0,
+    "id": 0,
+    "apistatus": {
+        "sessionId": null,
+        "sessionExpireDate": null,
+        "ResponseCode": "2",
+        "ResponseDescription": "User does not exists",
+        "fieldCollection": null
+    }
+}
+
