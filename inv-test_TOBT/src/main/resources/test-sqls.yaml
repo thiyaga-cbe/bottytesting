@@ -1,0 +1,1 @@
+- !!com.test.domain.QueryConfig {name: dbretreiveinventory, queryString: "select * from inventory where product_name ='${request.productname}' and location_name='${request.locationname}'"}

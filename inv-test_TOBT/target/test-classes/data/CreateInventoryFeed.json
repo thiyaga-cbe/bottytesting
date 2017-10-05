@@ -1,0 +1,12 @@
+[
+ {
+  "productName": "fan",
+  "locationName": "India",
+  "quantity": 3
+},
+{
+  "productName": "choco",
+  "locationName": "US",
+  "quantity": 3
+}  
+]
